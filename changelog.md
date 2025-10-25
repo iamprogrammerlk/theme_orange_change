@@ -19,3 +19,9 @@
 - Fixed: #GITHUB_ISSUE_ID
 
 -->
+
+## v25.10.25 - 2025-10-25
+
+### Changed
+
+- Used the new templating system, https://github.com/iamprogrammerlk/template_chromium_theme
