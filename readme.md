@@ -128,9 +128,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes with clear commit messages (`git commit -m "Add some AmazingFeature"`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create a feature branch (`git checkout -b feature/amazing_feature`)
+3. Make your changes with clear commit messages (`git commit -m "Add some amazing feature"`)
+4. Push to the Branch (`git push origin feature/amazing_feature`)
 5. Submit a pull request with description of changes
 
 Read more about,
