@@ -1,6 +1,7 @@
-<a name="readme-top"></a>
+<a name="page_top"></a>
 
-<br><br>
+<br>
+<br>
 
 <div align="center" style="text-align: center;">
   <a href="https://iamprogrammer.lk/theme_orange_change">
@@ -8,7 +9,8 @@
   </a>
 </div>
 
-<br><br>
+<br>
+<br>
 
 # Orange Change (Theme by I am Programmer)
 
@@ -29,7 +31,10 @@ beautifully designed theme, you can enjoy a more pleasant and productive digital
 >
 > If you enjoy this project and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -91,7 +96,10 @@ Then, unzip the file and follow the instructions below, which may vary slightly 
 
 ![screenshot_05_1280x800_search][screenshot_05_1280x800_search]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -104,7 +112,10 @@ Then, unzip the file and follow the instructions below, which may vary slightly 
 
 - [Contributors][contributors]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -134,7 +145,9 @@ Read more about,
 Get in touch with the project developers and the community through our [Reddit.com Community][community] forum.
 
 <br>
-<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -148,7 +161,10 @@ Please read the [support.md][support] and [governance.md][governance] for more d
 > Please do not report security vulnerabilities through public **Community Forum**, **GitHub Issues**,
 > **Discussions**, or **Pull Requests**. Instead, use [`SECURITY ADVISORIES`][security_advisories]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -163,13 +179,16 @@ and be bound by the terms of the [Contributor License Agreement][contributor_lic
 > This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation.
 > Please keep those discussions elsewhere.
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
 # ⚖️ License
 
-### This work is distributed under the [MIT License 1.0][license] License.
+This work is distributed under the [MIT License 1.0 (MIT)][license] License.
 
 See [license][license_md] for more information.
 
@@ -195,7 +214,10 @@ See [license][license_md] for more information.
 - ⛔ ~~Trademark use~~
 - 🚫 Warranty
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -204,7 +226,10 @@ See [license][license_md] for more information.
 - Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
 - Copyright © 2025 ❤️ [Contributors][contributors].
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
